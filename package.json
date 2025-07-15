@@ -1,0 +1,12 @@
+{
+  "name": "remote-p5-trigger",
+  "version": "1.0.0",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
